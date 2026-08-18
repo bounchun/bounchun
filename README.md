@@ -40,7 +40,7 @@ networking, cybersecurity, IoT and cloud communication.
 
 **Next:** ML-powered network anomaly detection
 
-### 🌦️ Weather World
+### 🌦️ Weather World (whether-weather-world.netlify.app/)
 **Responsive Weather Information Application**
 
 A responsive web application built to explore modern
@@ -68,7 +68,7 @@ developed to apply object-oriented software design principles.
 - Data persistence
 - Application architecture
 
-### 🍽️ Pearl Pavilion
+### 🍽️ Pearl Pavilion (bounchun.github.io/pearl-pavilion/)
 **Responsive Restaurant Website**
 
 A static luxury restaurant website designed to practise
