@@ -68,7 +68,7 @@ developed to apply object-oriented software design principles.
 - Data persistence
 - Application architecture
 
-### 🥢 Pearl Pavilion
+### 🍽️ Pearl Pavilion
 **Responsive Restaurant Website**
 
 A static luxury restaurant website designed to practise
