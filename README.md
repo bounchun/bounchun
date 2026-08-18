@@ -21,7 +21,7 @@ Developing software and intelligent systems at the intersection of AI, networkin
 
 ## 🚀 Selected Work
 
-### 🏠 HomeGuard (https://github.com/bounchun/HomeGuard)
+### 🏠 HomeGuard (https://bounchun.github.io/HomeGuard/)
 **Edge Network Monitoring & Security System**
 
 A Raspberry Pi-powered system for discovering and monitoring
