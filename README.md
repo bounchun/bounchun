@@ -40,7 +40,7 @@ networking, cybersecurity, IoT and cloud communication.
 
 **Next:** ML-powered network anomaly detection
 
-### 🌦️ Weather World (whether-weather-world.netlify.app/)
+### 🌦️ Weather World (https://github.com/bounchun/weather-world)
 **Responsive Weather Information Application**
 
 A responsive web application built to explore modern
@@ -51,7 +51,7 @@ front-end development, templating and environmental calculations.
 **Focus:** responsive design, static-site architecture,
 templating and deployment.
 
-### 🐾 Pet Day Care Management System
+### 🐾 Pet Day Care Management System (https://github.com/bounchun/Day-Care-Pet-Management) 
 **Java Object-Oriented Application**
 
 A Java application for managing pets and daycare operations,
@@ -68,7 +68,7 @@ developed to apply object-oriented software design principles.
 - Data persistence
 - Application architecture
 
-### 🍽️ Pearl Pavilion (bounchun.github.io/pearl-pavilion/)
+### 🍽️ Pearl Pavilion (https://github.com/bounchun/pearl-pavilion)
 **Responsive Restaurant Website**
 
 A static luxury restaurant website designed to practise
