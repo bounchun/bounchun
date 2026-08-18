@@ -10,13 +10,13 @@ Developing software and intelligent systems at the intersection of AI, networkin
 
 ## ⚡ About Me
 
-💻 Developing expertise in **Software Engineering & Full-Stack Development**
+💻 Building **Software Engineering & Full-Stack Development**
 
-🧠 Developing expertise in  **Artificial Intelligence & Machine Learning**
+🧠 Exploring **Artificial Intelligence & Machine Learning**
 
-🛡️ Expanding my expertise in **Networking & Cybersecurity**
+🛡️ Strengthening skills in **Networking & Cybersecurity**
 
-⚙️ Building practical systems with **Raspberry Pi, IoT & Edge Computing**
+⚙️ Prototyping **IoT & Edge Computing Systems with Raspberry Pi**
 
 
 ## 🚀 Selected Work
