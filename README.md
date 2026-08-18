@@ -12,11 +12,11 @@ Developing software and intelligent systems at the intersection of AI, networkin
 
 💻 Building strong foundations in **Software Engineering & Full-Stack Development**
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+🧠 Exploring **Artificial Intelligence & Machine Learning**
 
-🌐 Developing skills in **Networking & Cybersecurity**
+🛡️ Developing skills in **Networking & Cybersecurity**
 
-🍓 Building practical systems with **Raspberry Pi, IoT & Edge Computing**
+⚙️ Building practical systems with **Raspberry Pi, IoT & Edge Computing**
 
 
 ## 🚀 Selected Work
@@ -39,8 +39,6 @@ networking, cybersecurity, IoT and cloud communication.
 - Raspberry Pi sensor integration
 
 **Next:** ML-powered network anomaly detection
-
-[View Project →](https://bounchun.github.io/HomeGuard/)
 
 ### 🌦️ Weather World
 **Responsive Weather Information Application**
