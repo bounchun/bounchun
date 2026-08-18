@@ -10,18 +10,18 @@ Developing software and intelligent systems at the intersection of AI, networkin
 
 ## ⚡ About Me
 
-💻 Building strong foundations in **Software Engineering & Full-Stack Development**
+💻 Developing expertise in **Software Engineering & Full-Stack Development**
 
-🧠 Exploring **Artificial Intelligence & Machine Learning**
+🧠 Developing expertise in  **Artificial Intelligence & Machine Learning**
 
-🛡️ Developing skills in **Networking & Cybersecurity**
+🛡️ Expanding my expertise in **Networking & Cybersecurity**
 
 ⚙️ Building practical systems with **Raspberry Pi, IoT & Edge Computing**
 
 
 ## 🚀 Selected Work
 
-### 🏠 HomeGuard
+### 🏠 HomeGuard (https://github.com/bounchun/HomeGuard)
 **Edge Network Monitoring & Security System**
 
 A Raspberry Pi-powered system for discovering and monitoring
