@@ -8,7 +8,7 @@ Software Engineering • AI/ML • Full-Stack • Edge Systems
 Developing software and intelligent systems at the intersection of AI, networking, cybersecurity, and edge computing.
 </p>
 
-## 👨💻 About Me
+## ⚡ About Me
 
 💻 Building strong foundations in **Software Engineering & Full-Stack Development**
 
