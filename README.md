@@ -40,7 +40,7 @@ networking, cybersecurity, IoT and cloud communication.
 
 **Next:** ML-powered network anomaly detection
 
-### 🌦️ Weather World (https://github.com/bounchun/weather-world)
+### 🌦️ Weather World (whether-weather-world.netlify.app/)
 **Responsive Weather Information Application**
 
 A responsive web application built to explore modern
