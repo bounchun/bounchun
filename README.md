@@ -5,18 +5,18 @@ Software Engineering • AI/ML • Full-Stack • Edge Systems
 </h3>
 
 <p align="center">
-Developing software and intelligent systems at the intersection of AI, networking, cybersecurity, and edge computing.
+Building practical software and intelligent systems that connect applications, data, networks, and physical devices.
 </p>
 
 ## ⚡ About Me
 
-💻 Building **Software Engineering & Full-Stack Development**
+💻 Building end-to-end applications, from backend logic and databases to user-facing interfaces
 
-🧠 Exploring **Artificial Intelligence & Machine Learning**
+🧠 Experimenting with machine learning and AI integration in practical software projects
 
-🛡️ Strengthening skills in **Networking & Cybersecurity**
+🌐 Interested in how software interacts with networks, security, cloud infrastructure, and connected devices
 
-⚙️ Prototyping **IoT & Edge Computing Systems with Raspberry Pi**
+⚙️ Turning ideas into working prototypes using code, APIs, databases, Raspberry Pi and IoT hardware
 
 
 ## 🚀 Selected Work
