@@ -10,13 +10,13 @@ Building practical software and intelligent systems that connect applications, d
 
 ## ⚡ About Me
 
-💻 Building end-to-end applications, from backend logic and databases to user-facing interfaces
+🛠️ Building end-to-end applications, from backend logic and databases to user-facing interfaces
 
-🧠 Developing machine learning and AI integration in practical software projects
+🤖 Developing machine learning and AI integration in practical software projects
 
-🌐 Connecting software with networks, security, cloud infrastructure, and connected devices
+🛡️ Strengthening skills in networking, cybersecurity, and cloud technologies
 
-⚙️ Turning ideas into working prototypes using code, APIs, databases, Raspberry Pi and IoT hardware
+🔌 Prototyping real-world systems with Raspberry Pi, APIs, sensors, and IoT technologies
 
 
 ## 🚀 Selected Work
