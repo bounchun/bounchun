@@ -91,7 +91,7 @@ responsive web development and visual interface design.
 `Linux` `Cisco Networking` `Raspberry Pi` `MQTT`
 
 ### Tools
-`Git` `GitHub` `IntelliJ IDEA` `MySQL Workbench`
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `MySQL Workbench`
 
 ### Currently Exploring
 `Machine Learning` `Scikit-learn` `Docker`
